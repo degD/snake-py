@@ -1,4 +1,4 @@
-# snake.py
+# snake-py
 
 This is a snake game and also my first github project.
 That's probably all.
